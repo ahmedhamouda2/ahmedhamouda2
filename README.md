@@ -1,5 +1,5 @@
 ### Hi there, I'm Ahmed Hamouda 👋
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/ahmed-hamouda-05054820a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/ahmedhamouda97"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/ahmedhamouda9797"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
