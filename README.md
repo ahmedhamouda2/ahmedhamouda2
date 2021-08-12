@@ -32,7 +32,7 @@
 
 ### My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/> </a>  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=3" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/> </a>  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=4" /> </a>
 
 <!-- **ahmedhamouda2/ahmedhamouda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
