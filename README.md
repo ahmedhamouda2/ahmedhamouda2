@@ -1,9 +1,7 @@
 ### Hi there, I'm Ahmed Hamouda 👋
 <p align="left">
     <a href="https://www.linkedin.com/in/ahmed-hamouda-05054820a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<!--     <a href="https://www.instagram.com/ahmedhamouda97" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a> -->
     <a href="https://www.facebook.com/ahmedhamouda9797"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
-<!--     <a href="https://twitter.com/Ahmed_hamouda97"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a> -->
     <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white"/></a>
   </p>
 
@@ -32,20 +30,8 @@
 
 ### My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/> </a>  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=4" /> </a>
-
-<!-- **ahmedhamouda2/ahmedhamouda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=4" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedhamouda2"/>
 
 
