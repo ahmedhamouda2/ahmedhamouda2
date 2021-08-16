@@ -45,9 +45,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"  width="415px" height="170px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true"  width="415px" height="170px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
-<img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="450"/>
+<img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="400px"/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
 
