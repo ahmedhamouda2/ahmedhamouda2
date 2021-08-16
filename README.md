@@ -37,8 +37,7 @@
 <a href="https://ubuntu.com/" target="_blank"><img align="left" title="Terminal" alt="Terminal" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" title="Figma" alt="Figma" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/220px-Figma-logo.svg.png" /></a>
 
-
-
+<br />
 
 <br />
 
