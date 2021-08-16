@@ -46,7 +46,7 @@
 ### My GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=4" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&hide_title=true&langs_count=4" /> </a>
 <img align="center" src="https://wakatime.com/share/@ahmedhamouda2/9f6b515b-5052-4cdb-a498-e60308fdbaf1.svg" height="450"/>
 
 
