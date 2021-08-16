@@ -49,4 +49,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
 <img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="450"/>
 
-
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&bg_color=1F222E&color=50f0ac&line=5094F0&point=FFFFFF&hide_border=true" /></a>
