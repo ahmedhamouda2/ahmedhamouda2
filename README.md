@@ -5,12 +5,15 @@
     <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white"/></a>
   </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
+
 
 ## I'm a web front-end, Developer!
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
+
 - 🔭 I’m a [coding academy](https://gazaskygeeks.com/code/) graduate
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Sport
+
 
 <br>
 <br>
