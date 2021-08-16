@@ -47,6 +47,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"  width="415px" height="170px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
-<img align="center" src="https://wakatime.com/share/@ahmedhamouda2/9f6b515b-5052-4cdb-a498-e60308fdbaf1.svg" height="450"/>
+<img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="450"/>
 
 
