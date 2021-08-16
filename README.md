@@ -7,7 +7,7 @@
 
 
 
-## I'm a web front-end, Developer!
+## :book: I'm a web front-end, Developer!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
 
 - 🔭 I’m a [coding academy](https://gazaskygeeks.com/code/) graduate
@@ -23,7 +23,7 @@
 
 <br />
 
-### Languages and Tools :
+## 🛠 Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" title="HTML5" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" title="CSS3" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -43,7 +43,7 @@
 
 <br />
 
-### My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800"  width="415px" height="170px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
