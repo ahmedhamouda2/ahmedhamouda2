@@ -37,15 +37,18 @@
 <a href="https://www.figma.com/" target="_blank"><img align="left" title="Figma" alt="Figma" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/220px-Figma-logo.svg.png" /></a>
 
 <br />
-
 <br />
-
+<br />
+<br />
 <br />
 
 ## &#x1f4c8; My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true"  width="415px" height="170px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
+
+<br />
+
 <a href="https://wakatime.com/share/@ahmedhamouda2/c8d53b76-52e0-49b8-9e4a-1a650a778936.svg" target="_blank"><img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="400px"/></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
