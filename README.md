@@ -1,10 +1,9 @@
-### Hi there, I'm Ahmed Hamouda 👋
+### Hi there, I'm Ahmed Hamouda <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px">
 <p align="left">
-    <a href="https://www.linkedin.com/in/ahmed-hamouda-05054820a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.facebook.com/ahmedhamouda9797"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ahmed-hamouda-05054820a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"  width="100px"/></a>
+    <a href="https://www.facebook.com/ahmedhamouda9797"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white" width="100px"/></a>
+    <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white" width="100px"/></a>
   </p>
-
 
 
 ## :book: I'm a web front-end, Developer!
