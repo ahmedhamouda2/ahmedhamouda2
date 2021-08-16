@@ -50,3 +50,5 @@
 <img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="450"/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedhamouda2.ahmedhamouda)
