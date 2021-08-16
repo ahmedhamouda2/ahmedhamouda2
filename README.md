@@ -2,7 +2,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/ahmed-hamouda-05054820a"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"  width="100px" height="30px"/></a>
     <a href="https://www.facebook.com/ahmedhamouda9797"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white" width="100px" height="30px"/></a>
-    <a href="https://codepen.io/Ahmed-adel97" style="border-color:#FFF"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white" width="100px" height="30px"/></a>
+    <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white" width="100px" height="30px"/></a>
   </p>
 
 
