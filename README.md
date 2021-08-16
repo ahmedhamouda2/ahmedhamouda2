@@ -28,7 +28,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" title="HTML5" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" title="CSS3" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" title="JavaScript" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://jquery.com/" target="_blank"><img align="left" title="jQuery" alt="jQuery" height="42px" src="./jquery .png" /></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" title="jQuery" alt="jQuery" height="42px" width="70px" src="./jquery .png" /></a>
 <a href="https://getbootstrap.com/" target="_blank">
 <img align="left" title="Bootstrap" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
 <a href="https://git-scm.com/" target="_blank">
