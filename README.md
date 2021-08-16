@@ -51,4 +51,5 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedhamouda2.ahmedhamouda)
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ahmedhamouda2.ahmed&color=0C7EBE)
