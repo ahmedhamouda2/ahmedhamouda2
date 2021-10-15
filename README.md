@@ -6,7 +6,7 @@
   </p>
 
 
-## :book: I'm a web front-end, Developer!
+## :book: I'm a Full Stack Web, Developer!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
 
 - 🔭 I’m a [coding academy](https://gazaskygeeks.com/code/) graduate
@@ -27,9 +27,15 @@
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" title="HTML5" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" title="CSS3" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" title="JavaScript" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://jquery.com/" target="_blank"><img align="left" title="jQuery" alt="jQuery" height="42px" width="70px" src="./jquery .png" /></a>
+<a href="https://jquery.com/" target="_blank"><img align="left" title="jQuery" alt="jQuery" height="42px" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" /></a>
 <a href="https://getbootstrap.com/" target="_blank">
 <img align="left" title="Bootstrap" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
+<a href="https://git-scm.com/" target="_blank">
+<img align="left" title="PHP" alt="php" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+<a href="https://git-scm.com/" target="_blank">
+<img align="left" title="CodeIgniter" alt="CodeIgniter" height="42px" src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" /></a>
+<a href="https://git-scm.com/" target="_blank">
+<img align="left" title="Mysql" alt="Mysql" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://git-scm.com/" target="_blank">
 <img align="left" title="Git" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="https://github.com/" target="_blank"><img align="left" title="GitHub" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
