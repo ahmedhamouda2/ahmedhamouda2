@@ -30,11 +30,11 @@
 <a href="https://jquery.com/" target="_blank"><img align="left" title="jQuery" alt="jQuery" height="42px" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" /></a>
 <a href="https://getbootstrap.com/" target="_blank">
 <img align="left" title="Bootstrap" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://www.php.net/" target="_blank">
 <img align="left" title="PHP" alt="php" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://codeigniter.com" target="_blank">
 <img align="left" title="CodeIgniter" alt="CodeIgniter" height="42px" src="https://cdn.freebiesupply.com/logos/large/2x/codeigniter-logo-png-transparent.png" /></a>
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank">
 <img align="left" title="Mysql" alt="Mysql" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://git-scm.com/" target="_blank">
 <img align="left" title="Git" alt="Git" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
