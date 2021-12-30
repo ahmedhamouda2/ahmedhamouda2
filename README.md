@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
 
 - 🔭 I’m a [coding academy](https://gazaskygeeks.com/code/) graduate
-- 🌱 I’m currently learning [laravel](https://laravel.com/)
+<!-- - 🌱 I’m currently learning [laravel](https://laravel.com/) -->
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1n2Im0IX097itHBShWYVH2kzMDBEKxVH-/view?usp=sharing)
 - ⚡ Fun fact: I love to Code and Sport
@@ -59,4 +59,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ahmedhamouda2.ahmed&color=0C7EBE)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ahmedhamouda2.ahmed&color=0C7EBE) -->
