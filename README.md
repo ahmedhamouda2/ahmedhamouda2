@@ -5,22 +5,19 @@
     <a href="https://codepen.io/Ahmed-adel97"><img src="https://img.shields.io/badge/codepen-%23000?style=flat&logo=codepen&logoColor=white" width="100px" height="30px"/></a>
   </p>
 
+<br />
 
 ## :book: I'm a Full Stack Web, Developer!
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/> -->
 
 - 🔭 I’m a [coding academy](https://gazaskygeeks.com/code/) graduate
 <!-- - 🌱 I’m currently learning [laravel](https://laravel.com/) -->
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1n2Im0IX097itHBShWYVH2kzMDBEKxVH-/view?usp=sharing)
+<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
+<!-- - 📝 Checkout my [Resume](https://drive.google.com/file/d/1n2Im0IX097itHBShWYVH2kzMDBEKxVH-/view?usp=sharing) -->
 - ⚡ Fun fact: I love to Code and Sport
 
-
 <br />
 
-<br />
-
-<br />
 
 ## 🛠 Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
@@ -45,18 +42,16 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?&username=ahmedhamouda2&count_private=true&show_icons=true&include_all_commits=true"  width="415px" height="170px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamouda2&layout=compact" width="415px" height="170px"/>
-<!-- <a href="https://wakatime.com/share/@ahmedhamouda2/c8d53b76-52e0-49b8-9e4a-1a650a778936.svg" target="_blank"><img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="400px"/></a> -->
+<a href="https://wakatime.com/share/@ahmedhamouda2/c8d53b76-52e0-49b8-9e4a-1a650a778936.svg" target="_blank"><img align="center" src="https://wakatime.com/share/@ahmedhamouda2/e8394d8d-a41f-492d-8e38-3b59ff35c84d.svg" height="400px"/></a>
 
-<br />
+<br /> -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a>
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmedhamouda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedhamouda2&theme=react-dark&hide_border=true" /></a> -->
 
 
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ahmedhamouda2.ahmed&color=0C7EBE) -->
