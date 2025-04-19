@@ -21,6 +21,7 @@
 
 ## 🛠 Languages and Tools
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://en.wikipedia.org/wiki/REACT" target="_blank"><img align="left" title="React.js" alt="React.js" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" title="HTML5" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" title="CSS3" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" title="JavaScript" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
